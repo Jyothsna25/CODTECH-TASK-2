@@ -34,6 +34,14 @@ To run this application in your machine: </br>
 - The installation of dependencies is completed after that to start the server `npm start`. </br>
 - localhost:3000 in this the project can be viewed.
 
+The website not only demonstrates technical proficiency and adherence to best practices but also provides an engaging and user-friendly experience for visitors. This portfolio serves as a professional representation of my work, facilitating networking and potential job opportunities in the field of web development.
+
+
+
+
+
+
+
 
 
 
