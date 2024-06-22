@@ -21,12 +21,12 @@ The objective of this project is to develop a responsive portfolio website using
 **Initialize Frontend:** Use `create-react-app` to set up the React project in the client directory. </br>
 **Initialize Backend:** Set up the Express project in the server directory using npm init and install necessary dependencies.
 ### Development Phase:
-**Frontend Development:**
--Create React components for different sections (e.g., Home, Projects, About, Contact). </br>
--Implement routing using react-router-dom for navigation between pages. </br>
--Design and style components using CSS, SASS, or styled-components. </br>
-**Backend Development:** 
--Set up Express server and define routes using routing concept.
+**Frontend Development:** </br>
+- Create React components for different sections (e.g., Home, Projects, About, Contact). </br>
+- Implement routing using react-router-dom for navigation between pages. </br>
+- Design and style components using CSS, SASS, or styled-components. </br>
+**Backend Development:** </br>
+- Set up Express server and define routes using routing concept. 
 
 To run this application in your machine: </br>
 - clone the project from github. </br>
