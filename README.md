@@ -28,11 +28,11 @@ The objective of this project is to develop a responsive portfolio website using
 **Backend Development:** 
 -Set up Express server and define routes using routing concept.
 
-To run this application in your machine:
--clone the project from github.
--After cloning the project open the project directory and open command prompt type `npm install` to get required dependencies.
--The installation of dependencies is completed after that to start the server `npm start`.
--localhost:3000 in this the project can be viewed.
+To run this application in your machine: </br>
+- clone the project from github. </br>
+- After cloning the project open the project directory and open command prompt type `npm install` to get required dependencies. </br>
+- The installation of dependencies is completed after that to start the server `npm start`. </br>
+- localhost:3000 in this the project can be viewed.
 
 
 
