@@ -22,11 +22,21 @@ The objective of this project is to develop a responsive portfolio website using
 **Initialize Backend:** Set up the Express project in the server directory using npm init and install necessary dependencies.
 ### Development Phase:
 **Frontend Development:**
-Create React components for different sections (e.g., Home, Projects, About, Contact). </br>
-Implement routing using react-router-dom for navigation between pages. </br>
-Design and style components using CSS, SASS, or styled-components. </br>
-**Backend Development:** <br>
-Set up Express server and define routes for API endpoints.
+-Create React components for different sections (e.g., Home, Projects, About, Contact). </br>
+-Implement routing using react-router-dom for navigation between pages. </br>
+-Design and style components using CSS, SASS, or styled-components. </br>
+**Backend Development:** 
+-Set up Express server and define routes using routing concept.
+
+To run this application in your machine:
+-clone the project from github.
+-After cloning the project open the project directory and open command prompt type `npm install` to get required dependencies.
+-The installation of dependencies is completed after that to start the server `npm start`.
+-localhost:3000 in this the project can be viewed.
+
+
+
+
 
 
 
